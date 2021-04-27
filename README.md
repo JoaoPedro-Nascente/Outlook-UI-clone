@@ -1,2 +1,2 @@
-# portfolio
-The very begnning of my portfolio
+# outlook ui clone
+An Outlook UI Clone made as a Html/css/Js Study
